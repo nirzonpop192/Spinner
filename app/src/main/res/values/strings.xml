@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="relation">
+        <item>Select Relation</item>
+        <item>father</item>
+        <item>mother</item>
+        <item>sister</item>
+        <item>brother</item>
+        <item>son</item>
+        <item>daughter</item>
+        <item>wife</item>
+        <item>husband</item>
+    </string-array>
+
+    <string-array name="age">
+        <item>8 less than</item>
+        <item>12 less than</item>
+        <item>18 less than</item>
+        <item>23 less than</item>
+        <item>30 less than</item>
+    </string-array>
+    <string name="quantity_txt_label">Quantity</string>
+
+    <string-array name="quantity_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
